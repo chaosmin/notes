@@ -1,7 +1,6 @@
 ---
-title: Re:从零开始的异世界生活 (Re:Zero − Starting Life in Another World)
+title: Re:从零开始的异世界生活
 type: anime
-status: ongoing
 platform:
   - AT-X
   - TOKYO MX
@@ -20,17 +19,23 @@ runtime: ~24 分钟/集
 author: 长月达平 (Tappei Nagatsuki)
 studio: WHITE FOX
 based_on: 《Re:从零开始的异世界生活》轻小说 — 长月达平 著 / 大冢真一郎 插画（MF文库J）
-stars:
-  - 小林裕介（菜月昴）
-  - 高桥李依（爱蜜莉雅）
-  - 水濑祈（雷姆）
-  - 村川梨衣（拉姆）
-  - 新井里美（碧翠丝）
 first_aired: 2016-04-04
 last_aired: 连载中
 rotten_tomatoes: 80%
 imdb: 8.0/10
 mal: S1 8.25 / S2 8.42 / S3 8.42 / S4 9.20（历史第二）
+category:
+  - "#續作"
+  - "#小說改編"
+director: 篠原正寛
+series_composition: 横谷昌宏
+character_design: 佐川 遥
+music: 末廣健一郎
+airtime: 4月8日起／每週三／22時0分
+acgsecrets:
+  - https://acgsecrets.hk/anime/2107/
+official_site: https://re-zero-anime.jp/tv/
+cover: https://static.acgsecrets.hk/img/6c/6cff746ef04cd80aea2fda23a89d7985/27ddfceb4c47d772147ff7c7a17f22bcebfacb82da29ad173f62e5033d349aa7.jpg
 ---
 
 # Re:从零开始的异世界生活
@@ -302,6 +307,28 @@ mal: S1 8.25 / S2 8.42 / S3 8.42 / S4 9.20（历史第二）
 - 爱与付出的代价——昴为爱蜜莉雅和雷姆承受了怎样的地狱
 - 平凡人在超人世界中靠意志和策略求生
 - 最恶意的反派往往拥有最扭曲的"爱"的哲学
+
+## 主题曲
+
+**第一季（2016）：**
+- OP1："Redo" by 铃木木乃美 (鈴木このみ)
+- ED1："STYX HELIX" by MYTH & ROID
+- OP2："Paradisus-Paradoxum" by MYTH & ROID
+- ED2："Stay Alive" by 爱蜜莉雅（CV：高桥李依）
+
+**第二季（2020–2021）：**
+- OP1："Realize" by 铃木木乃美
+- ED1："Memento" by nonoc
+- OP2："Long shot" by 前岛麻由
+- ED2："Believe in you" by nonoc
+
+**第三季：**
+- OP："Reweave" by 铃木木乃美
+- ED："NOX LUX" by MYTH & ROID
+
+**第四季：**
+- OP："Recollect" by 铃木木乃美 feat. Ashnikko
+- ED："Ender Ember" by MYTH & ROID feat. TK（凛として時雨）
 
 ## 制作信息
 

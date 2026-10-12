@@ -1,0 +1,24 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder.startsWith("Public/Media")
+        - type.containsAny("anime", "series", "movie")
+    order:
+      - file.name
+      - title
+      - first_aired
+      - director
+      - based_on
+      - platform
+      - genre
+      - studio
+    sort:
+      - property: first_aired
+        direction: DESC
+      - property: genre
+        direction: DESC
+    columnSize:
+      note.title: 247
+      note.platform: 122

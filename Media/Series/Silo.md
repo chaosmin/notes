@@ -1,7 +1,6 @@
 ---
-title: 羊毛战记 (Silo)
+title: 羊毛战记
 type: series
-status: ongoing
 platform: Apple TV+
 genre:
   - 科幻

@@ -1,7 +1,6 @@
 ---
-title: 加速世界 (Accel World)
+title: 加速世界
 type: anime
-status: hiatus（一季完结，原作未完结，第二季未宣布）
 platform:
   - TOKYO MX
   - Crunchyroll
@@ -18,11 +17,6 @@ runtime: ~24 分钟/集
 author: 川原砾 (Reki Kawahara)
 studio: Sunrise
 based_on: 《加速世界》轻小说 — 川原砾 著 / HIMA 插画（电击文库）
-stars:
-  - 梶裕贵（有田春雪 / Silver Crow）
-  - 三泽纱千香（黑雪姬 / Black Lotus）
-  - 浅沼晋太郎（黛拓武 / Cyan Pile）
-  - 丰崎爱生（仓嶋千百合 / Lime Bell）
 first_aired: 2012-04-07
 last_aired: 2012-09-22
 mal: 7.20/10

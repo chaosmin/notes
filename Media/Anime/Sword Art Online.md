@@ -1,7 +1,6 @@
 ---
-title: 刀剑神域 (Sword Art Online)
+title: 刀剑神域
 type: anime
-status: ongoing（动画至 Alicization 完结，Unital Ring 篇未改编）
 platform:
   - TOKYO MX
   - Crunchyroll
@@ -20,13 +19,6 @@ runtime: ~24 分钟/集
 author: 川原砾 (Reki Kawahara)
 studio: A-1 Pictures
 based_on: 《刀剑神域》轻小说 — 川原砾 著 / abec 插画（电击文库）
-stars:
-  - 松冈祯丞（桐人 / Kirito）
-  - 户松遥（亚丝娜 / Asuna）
-  - 竹达彩奈（莉法 / Leafa）
-  - 泽城美雪（诗乃 / Sinon）
-  - 茅野爱衣（爱丽丝 / Alice）
-  - 岛崎信长（优吉欧 / Eugeo）
 first_aired: 2012-07-08
 last_aired: 2020-09-20（主系列）；剧场版 2022 年续出
 imdb: 7.5/10（系列总评）
